@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+    <g>
+        <path fill="#f4ceaf" d="m336 368-88 88-64-64 32-32v-48l56-56a33.808 33.808 0 0 1 9.88 22.12c.04.63.06 1.25.06 1.88a33.846 33.846 0 0 1-9.94 24z" data-original="#f4ceaf"></path>
+        <path fill="#f2c194" d="M267.31 395.31 256 384a45.53 45.53 0 0 0 4.45-58.83 8 8 0 0 1 .78-10.4L272 304l11.31 11.31-6.19 6.19a61.694 61.694 0 0 1-9.81 73.81z" data-original="#f2c194"></path>
+        <path fill="#f2c194" d="m336 368-27.31 27.31-66.343-66.343a8 8 0 0 1 0-11.314l39.533-39.533c.04.63.06 1.25.06 1.88a33.846 33.846 0 0 1-9.94 24z" data-original="#f2c194"></path>
+        <path fill="#f4ceaf" d="m256 320 64 64 40-40-64-64z" data-original="#f4ceaf"></path>
+        <path fill="#8acce7" d="m64 496 128-128 88 88-40 40z" data-original="#8acce7"></path>
+        <path fill="#ad7d4d" d="m319.923 384 23.997-23.996 79.987 79.988-23.996 23.996zM71.975 136.007 95.97 112.01l159.976 159.976-23.997 23.996z" data-original="#ad7d4d"></path>
+        <path fill="#eebe33" d="m232 120 96-96 112 112-84 84a16.97 16.97 0 0 1-24 0z" data-original="#eebe33"></path>
+        <path fill="#eedc9a" d="M96 160 204 52a16.97 16.97 0 0 1 24 0l112 112a16.97 16.97 0 0 0-24 0L208 272z" data-original="#eedc9a"></path>
+        <path fill="#e88604" d="M344.97 176a16.907 16.907 0 0 1-4.97 12l-8 8a16.966 16.966 0 0 0 0 24l-36-36 20-20a16.97 16.97 0 0 1 28.97 12z" data-original="#e88604"></path>
+    </g>
+</svg>

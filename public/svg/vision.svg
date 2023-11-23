@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 512.007 512.007" style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+    <g>
+        <circle cx="256.003" cy="256.003" r="256.003" style="" fill="#ea971e" data-original="#ea971e" class=""></circle>
+        <path d="M256.254 156.449c-.166 0-.335.008-.501.009-88.421.372-194.84 99.354-194.84 99.354L311.13 506.029c97.093-21.312 173.529-97.722 194.877-194.801l-55.416-55.416c-46.96-43.616-129.635-99.363-194.337-99.363z" style="" fill="#c27526" data-original="#c27526"></path>
+        <path d="M450.592 255.812s-105.819 99.363-194.339 99.363-195.339-99.363-195.339-99.363 106.82-99.363 195.34-99.363 194.338 99.363 194.338 99.363z" style="" fill="#ffffff" data-original="#ffffff"></path>
+        <path d="M256.254 156.449c-.166 0-.335.008-.501.009v198.708c.166.001.335.009.501.009 88.52 0 194.339-99.363 194.339-99.363s-105.82-99.363-194.339-99.363z" style="" fill="#bcd8f2" data-original="#bcd8f2"></path>
+        <circle cx="255.756" cy="255.647" r="72.112" style="" fill="#6dc3b6" data-original="#6dc3b6"></circle>
+        <path d="M327.864 255.649c0-39.826-32.286-72.112-72.112-72.112V327.76c39.827 0 72.112-32.286 72.112-72.111z" style="" fill="#38979e" data-original="#38979e"></path>
+        <circle cx="255.756" cy="255.647" r="27.791" style="" fill="#57565c" data-original="#57565c"></circle>
+        <path d="M283.543 255.649c0-15.348-12.442-27.791-27.791-27.791v55.58c15.349.001 27.791-12.442 27.791-27.789z" style="" fill="#3e3e42" data-original="#3e3e42"></path>
+        <circle cx="233.557" cy="233.557" r="22.092" style="" fill="#ffffff" data-original="#ffffff"></circle>
+    </g>
+</svg>
